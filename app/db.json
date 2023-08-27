@@ -1,0 +1,44 @@
+{
+  "emp": [
+    {
+      "id": 1,
+      "name": "Sriram",
+      "role": "Fullstack Developer"
+    },
+    {
+      "id": "2",
+      "name": "Jaanaki",
+      "role": "UI Developer"
+    },
+    {
+      "id": "3",
+      "name": "Lakshmana",
+      "role": "Fullstack Developer"
+    },
+    {
+      "id": "4",
+      "name": "Hanuma",
+      "role": "UI Testing"
+    },
+    {
+      "id": "5",
+      "name": "Sugreeva",
+      "role": "Java Developer"
+    },
+    {
+      "id": "6",
+      "name": "Vibhisana",
+      "role": "Net Developer"
+    },
+    {
+      "id": "7",
+      "name": "Bharatha",
+      "role": "Accountant"
+    },
+    {
+      "id": "8",
+      "name": "Satruzna",
+      "role": "Jr Accountant"
+    }
+  ]
+}
